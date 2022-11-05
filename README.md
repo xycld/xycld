@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xy-cloud-cn&count_private=true&show_icons=true&theme=dark)](https://github.com/xy-cloud-cn/github-readme-stats)
+[!xy-cloud-cn's GitHub stats](https://github-readme-stats.vercel.app/api?username=xy-cloud-cn&count_private=true&show_icons=true&theme=dark)](https://github.com/xy-cloud-cn/github-readme-stats)
 
 
 <!---
