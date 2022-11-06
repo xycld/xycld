@@ -1,4 +1,6 @@
-[!xy-cloud-cn's GitHub stats](https://github-readme-stats.vercel.app/api?username=xy-cloud-cn&count_private=true&show_icons=true&theme=dark)](https://github.com/xy-cloud-cn/github-readme-stats)
+![xy-cloud-cn's github stats](https://github-readme-stats.vercel.app/api?username=xy-cloud-cn&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xy-cloud-cn&layout=compact&theme=tokyonight)
 
 
 <!---
