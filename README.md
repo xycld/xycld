@@ -1,3 +1,9 @@
+Hi there 👋
+
+🐾I'm a student in China
+
+🍎I'm currently learning python/js/c++/golang/c#/godot script
+
 ![xy-cloud-cn's github stats](https://github-readme-stats.vercel.app/api?username=xy-cloud-cn&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xy-cloud-cn&layout=compact&theme=tokyonight)
