@@ -2,7 +2,7 @@ Hi there 👋
 
 🐾I'm a student in China
 
-🍎I'm currently learning python/js/c++/golang/c#/godot script
+🍎I'm currently learning python / javascript / c++ / golang / c# / godot script
 
 ![xy-cloud-cn's github stats](https://github-readme-stats.vercel.app/api?username=xy-cloud-cn&show_icons=true&theme=tokyonight)
 
