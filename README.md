@@ -1,8 +1,21 @@
 Hi there 👋
 
-🐾I'm a student in China
+🐾I'm a senior high school student in China
 
-🍎I'm currently learning python / javascript / c++ / golang / c# / godot script
+📕You can communicate with me in Chinese/English
+
+✨Feel free to add my social media accounts!
+
+<table style="width: 100%;">
+  <tr>
+    <td><center><b> Currently Learning </b></center></td>
+    <td><center><img width=100 src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/godot/godot-original.svg'/><img width=100 src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/rust/rust-plain.svg'/><img width=100 src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg'/><img width=100 src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg'/><img width=100 src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original.svg'/></center></td>
+  </tr>
+  <tr>
+    <td><center><b> Trying to use </b></center></td>
+    <td><center><img width=100 src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg'/><img width=100 src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg'/></center></td>
+  </tr>
+</table>
 
 ![xy-cloud-cn's github stats](https://github-readme-stats.vercel.app/api?username=xy-cloud-cn&show_icons=true&theme=tokyonight)
 
