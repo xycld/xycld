@@ -2,7 +2,7 @@
   
 # Hi there 👋
 
-🐾I'm a senior high school student in China
+🐾I'm a student in China
 
 📕You can communicate with me in Chinese/English
 
