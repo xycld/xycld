@@ -2,9 +2,13 @@
   
 # Hi there 👋
 
+` 🔧Sorry, I will not provide new feature updates recently, but I still provide bug fixes `
+
 🐾I'm a student in China
 
-📕You can communicate with me in Chinese/English
+📕You can communicate with me in Chinese/English 
+
+> If you don't know how to use these language, please use your native language and I will use a translator!
 
 ✨Feel free to add my social media accounts!
 
