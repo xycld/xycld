@@ -26,8 +26,8 @@
 
 | My Status Cards |
 |---|
-|![xy-cloud-cn's github stats](https://github-readme-stats.vercel.app/api?username=xy-cloud-cn&show_icons=true&theme=tokyonight)|
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xy-cloud-cn&layout=compact&theme=tokyonight)|
+|![xy-cloud-cn's github stats](https://github-readme-stats.vercel.app/api?username=xycld&show_icons=true&theme=tokyonight)|
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xycld&layout=compact&theme=tokyonight)|
 |![DDcard](https://ddcard.xy-cloud.xyz/svg?username=xy_cloud&team=TeeFun&skin=https://ddnet.org/skins/skin/community/AmethystCat.png)|
 
 <!---
