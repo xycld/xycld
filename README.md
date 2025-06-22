@@ -2,9 +2,6 @@
   
 # Hi there 👋
 
-` 🔧Sorry, I will not provide new feature updates recently, but I still provide bug fixes `  
-` I will back in 2 years `
-
 🐾I'm a student in China
 
 📕You can communicate with me in Chinese/English 
@@ -35,3 +32,8 @@ xy-cloud-cn/xy-cloud-cn is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 </div>
+
+
+Some interesting things:
+baka.my
+xycloud.me
