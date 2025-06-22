@@ -27,7 +27,7 @@
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xycld&layout=compact&theme=tokyonight)|
 |![DDcard](https://ddcard.xy-cloud.xyz/svg?username=xy_cloud&team=TeeFun&skin=https://ddnet.org/skins/skin/community/AmethystCat.png)|
 
-`Some interesting things:  `
+`Some interesting things:`  
 https://baka.my  
 https://xycloud.me
 
