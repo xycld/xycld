@@ -29,8 +29,8 @@
 
 `Some interesting things:`  
 https://baka.my  
-https://xycloud.me
-https://postal.xycloud.me
+https://xycloud.me  
+https://postal.xycloud.me  
 https://blog.xycloud.me
 
 <!---
