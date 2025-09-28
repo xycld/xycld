@@ -30,6 +30,8 @@
 `Some interesting things:`  
 https://baka.my  
 https://xycloud.me
+https://postal.xycloud.me
+https://blog.xycloud.me
 
 <!---
 xy-cloud-cn/xy-cloud-cn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
