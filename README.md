@@ -69,7 +69,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xycld&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" alt="GitHub Streak"/>
+  <img src="https://streak.baka.my/?user=xycld&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" alt="GitHub Streak"/>
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=xycld&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
@@ -80,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img src="https://ddcard.xy-cloud.xyz/svg?username=xy_cloud&team=TeeFun&skin=https://ddnet.org/skins/skin/community/AmethystCat.png" alt="DDCard"/>
+  <img src="https://ddcard.baka.my/svg?username=xy_cloud&team=TeeFun&skin=https://ddnet.org/skins/skin/community/AmethystCat.png" alt="DDCard"/>
 </div>
 
 ---
