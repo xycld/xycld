@@ -7,7 +7,6 @@
 - 🎓 I'm a student based in **China**, exploring the fascinating world of technology
 - 💡 Enthusiastic about **game development**, **artificial intelligence**, and **web technologies**
 - 🌏 Open to communication in **Chinese/English** (or any language with translation help!)
-- 🚀 Always learning, always building, always improving
 - 📫 Feel free to reach out and connect with me!
 
 ---
@@ -103,9 +102,9 @@
 ### 🔗 Personal Websites
 
 - 🏠 [Homepage](https://xycloud.me) - My personal landing page
-- 📝 [Blog](https://blog.xycloud.me) - Technical articles & thoughts
+- 📝 [Blog](https://blog.xycloud.me) - Articles & Thoughts
 - 📮 [Postal](https://postal.xycloud.me) - Anonymous mail service
-- 🎲 [Baka.my](https://baka.my) - Fun project
+- 🎲 [Baka.my](https://baka.my) - Some fun project
 
 </td>
     <td width="50%" valign="top">
@@ -140,20 +139,6 @@
 [![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://blog.xycloud.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xycldw@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xycloudXD)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Open+to+collaborations!;Let's+build+something+amazing+together!;Always+happy+to+connect!" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  
-**💡 Open to collaborations, discussions, and learning opportunities!**
 
 </div>
 
