@@ -3,7 +3,7 @@
 ## 💻 About Me
 
 -  I'm a student based in **China**
--  Enthusiastic about **game development**, **artificial intelligence**, and **web technologies**
+-  Enthusiastic about **game development**, **artificial intelligence**, and **web full stack**
 -  Open to communication in **Chinese/English** (or any language with translator help!)
 -  Feel free to connect with me!
 
@@ -79,19 +79,19 @@
 
 ### 🔗 Personal Websites
 
-- 🏠 [Homepage](https://xycloud.me) - My personal landing page
-- 📝 [Blog](https://blog.xycloud.me) - Articles & Thoughts
-- 📮 [Postal](https://postal.xycloud.me) - Anonymous postal
-- 🎲 [Baka.my](https://baka.my) - Some fun project
+- [Homepage](https://xycloud.me) - My personal landing page
+- [Blog](https://blog.xycloud.me) - Articles & Thoughts
+- [Leave a message](https://postal.xycloud.me) - Anonymous postal
+- [Baka.my](https://baka.my) - Some fun project
 <br/>
 </td>
     <td width="50%" valign="top">
 
 ### 💻 Current Focus
 
-- 🎮 **Game Development**
-- 🤖 **AI & Machine Learning**
-- 🌐 **Web Technologies**
+- 🎮 **Indie Game Development**
+- 🤖 **AI**
+- 🌐 **Web Full Stack**
 - 🔧 **Open Source**
 <br/>
 </td>
