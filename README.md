@@ -82,7 +82,7 @@
 - [Homepage](https://xycloud.me) - My personal landing page
 - [Blog](https://blog.xycloud.me) - Articles & Thoughts
 - [Leave a message](https://postal.xycloud.me) - Anonymous postal
-- [Baka.my](https://baka.my) - Some fun project
+- [baka.my](https://baka.my) - Some fun project
 <br/>
 </td>
     <td width="50%" valign="top">
