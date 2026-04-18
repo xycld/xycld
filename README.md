@@ -13,38 +13,38 @@
 
 ### 🌱 Currently Learning
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg" width="48" height="48" alt="Godot" title="Godot Game Engine"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" title="Rust"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" title="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" title="C#"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg" width="48" height="48" alt="Go" title="Go"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/haskell/haskell-original.svg" width="48" height="48" alt="Haskell" title="Haskell"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" title="Kotlin"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="48" height="48" alt="Godot" title="Godot Game Engine"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" title="Rust"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" title="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" title="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="48" height="48" alt="Go" title="Go"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width="48" height="48" alt="Haskell" title="Haskell"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" title="Kotlin"/>
 
 ### 🔨 Building Projects With
 
 #### Languages
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3"/>
 
 #### Frameworks & Libraries
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" width="48" height="48" alt="React" title="React.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" title="Next.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" title="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" title="React.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" title="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" title="PyTorch"/>
 
 ### Tools & Platforms
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" title="VS Code"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/archlinux/archlinux-original.svg" width="48" height="48" alt="Arch Linux" title="Arch Linux"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cloudflare/cloudflare-original.svg" width="48" height="48" alt="Cloudflare" title="Cloudflare"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="48" height="48" alt="Arch Linux" title="Arch Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="48" height="48" alt="Cloudflare" title="Cloudflare"/>
 
 ---
 
