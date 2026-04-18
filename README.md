@@ -13,7 +13,7 @@
 
 ### 🌱 Currently Learning
 
-<table><tr>
+<table border="0" cellpadding="0" cellspacing="0"><tr>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg" width="48" height="48" alt="Godot" title="Godot Game Engine"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" title="Rust"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" title="C++"/></td>
@@ -27,7 +27,7 @@
 
 #### Languages
 
-<table><tr>
+<table border="0" cellpadding="0" cellspacing="0"><tr>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/></td>
@@ -37,7 +37,7 @@
 
 #### Frameworks & Libraries
 
-<table><tr>
+<table border="0" cellpadding="0" cellspacing="0"><tr>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" width="48" height="48" alt="React" title="React.js"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" title="Next.js"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" title="PyTorch"/></td>
@@ -45,7 +45,7 @@
 
 ### Tools & Platforms
 
-<table><tr>
+<table border="0" cellpadding="0" cellspacing="0"><tr>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" title="VS Code"/></td>
