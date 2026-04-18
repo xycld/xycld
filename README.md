@@ -13,46 +13,46 @@
 
 ### 🌱 Currently Learning
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg" width="48" height="48" alt="Godot" title="Godot Game Engine" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" title="Rust" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" title="C++" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" title="C#" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg" width="48" height="48" alt="Go" title="Go" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/haskell/haskell-original.svg" width="48" height="48" alt="Haskell" title="Haskell" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" title="Kotlin" style="margin: 0 8px;"/>
-</p>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 16px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg" width="48" height="48" alt="Godot" title="Godot Game Engine"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" title="Rust"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" title="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" title="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg" width="48" height="48" alt="Go" title="Go"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/haskell/haskell-original.svg" width="48" height="48" alt="Haskell" title="Haskell"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" title="Kotlin"/>
+</div>
 
 ### 🔨 Building Projects With
 
 #### Languages
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" style="margin: 0 8px;"/>
-</p>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 16px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3"/>
+</div>
 
 #### Frameworks & Libraries
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" width="48" height="48" alt="React" title="React.js" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" title="Next.js" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" title="PyTorch" style="margin: 0 8px;"/>
-</p>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 16px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" width="48" height="48" alt="React" title="React.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" title="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" title="PyTorch"/>
+</div>
 
 ### Tools & Platforms
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" title="VS Code" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/archlinux/archlinux-original.svg" width="48" height="48" alt="Arch Linux" title="Arch Linux" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cloudflare/cloudflare-original.svg" width="48" height="48" alt="Cloudflare" title="Cloudflare" style="margin: 0 8px;"/>
-</p>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 16px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" title="VS Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/archlinux/archlinux-original.svg" width="48" height="48" alt="Arch Linux" title="Arch Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cloudflare/cloudflare-original.svg" width="48" height="48" alt="Cloudflare" title="Cloudflare"/>
+</div>
 
 ---
 
