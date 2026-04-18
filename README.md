@@ -14,11 +14,17 @@
 ### 🌱 Currently Learning
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg" width="48" height="48" alt="Godot" title="Godot Game Engine"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" title="Rust"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" title="C++"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" title="C#"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg" width="48" height="48" alt="Go" title="Go"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/haskell/haskell-original.svg" width="48" height="48" alt="Haskell" title="Haskell"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" title="Kotlin"/>
 
 <br clear="all"/>
@@ -28,9 +34,13 @@
 #### Languages
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3"/>
 
 <br clear="all"/>
@@ -38,7 +48,9 @@
 #### Frameworks & Libraries
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" width="48" height="48" alt="React" title="React.js"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" title="Next.js"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" title="PyTorch"/>
 
 <br clear="all"/>
@@ -46,10 +58,15 @@
 ### Tools & Platforms
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" title="VS Code"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/archlinux/archlinux-original.svg" width="48" height="48" alt="Arch Linux" title="Arch Linux"/>
+&nbsp;
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cloudflare/cloudflare-original.svg" width="48" height="48" alt="Cloudflare" title="Cloudflare"/>
 
 <br clear="all"/>
